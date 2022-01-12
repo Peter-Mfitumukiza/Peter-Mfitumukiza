@@ -1,3 +1,4 @@
+[![Header](https://raw.githubusercontent.com/Peter-Mfitumukiza/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 Here are some things to know about me:
@@ -7,8 +8,11 @@ Here are some things to know about me:
 - 👯 I’m looking to collaborate on React, Angular and Node
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about mainly JavaScript
-- 📫 How to reach me: [Twitter](twitter.com/MfitumukizaPet4)
-- 😄 Pronouns: He
+- 📫 How to reach me: ![Twitter](https://twitter.com/MfitumukizaPet4)
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Interested in human psychology and philosophy
+
 My Github stats:
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Mfitumukiza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
