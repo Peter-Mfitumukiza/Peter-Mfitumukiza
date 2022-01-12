@@ -1,4 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Peter-Mfitumukiza/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 ### Hi there 👋
 
 Here are some things to know about me:
@@ -14,5 +13,5 @@ Here are some things to know about me:
 
 My Github stats:
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Mfitumukiza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Mfitumukiza&show_icons=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peter-Mfitumukiza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
