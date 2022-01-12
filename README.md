@@ -10,6 +10,7 @@ Here are some things to know about me:
 - ⚡ Fun fact: Interested in human psychology and philosophy
 
 My Github stats:
+
 <a href="https://github.com/Peter-Mfitumukiza/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Mfitumukiza&show_icons=true&theme=dracula&hide_border=true" />
 </a>
