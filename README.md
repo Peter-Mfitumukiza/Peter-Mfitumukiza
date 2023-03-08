@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-Here are some things to know about me:
+Welcome to my github page!
+I am a backend developer using JavaScript/TypeScript and Java. You can reach me on [Twitter](https://twitter.com/MfitumukizaPet4), [Instagram](https://www.instagram.com/peter_mfitumukiza_6/) or [LinkedIn](https://www.linkedin.com/in/peter-mfitumukiza-78b8a91b4/)
 
-- 🔭 I’m currently a software engineering student at Rwanda Coding Academy
-- 🌱 I’m currently learning React and Java
-- 👯 I’m looking to collaborate on React, Angular and Node
-- 💬 You can ask me mainly about JavaScript
-- 📫 You can reach me on [Twitter](https://twitter.com/MfitumukizaPet4), [Instagram](https://www.instagram.com/peter_mfitumukiza_6/) or [LinkedIn](https://www.linkedin.com/in/peter-mfitumukiza-78b8a91b4/)
-- ⚡ Fun fact: Can't code without music 
 
 Technologies and tools: 
 
