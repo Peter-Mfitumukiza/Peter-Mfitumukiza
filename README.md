@@ -1,24 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-Welcome to my github page!
-I am a backend developer using JavaScript/TypeScript and Java. You can reach me on [Twitter](https://twitter.com/MfitumukizaPet4), [Instagram](https://www.instagram.com/peter_mfitumukiza_6/) or [LinkedIn](https://www.linkedin.com/in/peter-mfitumukiza-78b8a91b4/)
+I am FullStack Developer dedicated to building and optimizing user-focused web apps for customers with various business objectives. Analytical problem solver with calm and focused demeanor and judicious and creative when crafting effective websites, web apps and platforms to propel competitive advantage and revenue growth. Focused on Backend development for 3+ years, implementing best functional and object-oriented programming practices and ensuring the best security practices.
 
+I am also passionate about ideating, conceptualizing, and producing consumer-centric. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
-Technologies and tools: 
+### Reach Me Out:
+- Email: mfitep6@gmail.com
+- Phone: +250791176742
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-MongoDb-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Mysql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-XD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+### Some of the Projects I have Worked On
+- [Projectia](https://projectia.co/)
+- [Ederner Labs](https://ederner-frontend.vercel.app/)
+- [Smartnest](http://smartnest.vercel.app/)
+- [CodeAma](https://codeama-frontend.vercel.app/)
 
 My Github stats:
 
@@ -28,3 +22,8 @@ My Github stats:
 <a href="https://github.com/Peter-Mfitumukiza/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Mfitumukiza&show_icons=true&theme=dracula&hide_border=true&layout=compact" />
 </a>
+
+### My Favorite Languages/frameworks
+- JavaScript / NodeJS(Express)
+- TypeScript
+- Java / Spring Boot
