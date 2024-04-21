@@ -8,11 +8,10 @@ I am also passionate about ideating, conceptualizing, and producing consumer-cen
 - Email: mfitep6@gmail.com
 - Phone: +250791176742
 
-### Some of the Projects I have Worked On
+### Some of my projects
 - [Projectia](https://projectia.co/)
 - [Ederner Labs](https://ederner-frontend.vercel.app/)
 - [Smartnest](http://smartnest.vercel.app/)
-- [CodeAma](https://codeama-frontend.vercel.app/)
 
 My Github stats:
 
