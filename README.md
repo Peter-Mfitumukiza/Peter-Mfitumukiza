@@ -1,8 +1,7 @@
 # Hi there 👋
 
-I am software engineer dedicated to building user-focused applications for customers with various business objectives. Analytical problem solver with calm and focused demeanor and judicious and creative when crafting effective websites, web apps and platforms to propel competitive advantage and revenue growth. Focused on Backend development for 3+ years, implementing best functional and object-oriented programming practices and ensuring the best security practices.
+I am a software engineer, passionate about transforming innovative ideas into impactful software solutions. With a strong foundation in computer science principles and a proven track record of excellence, I bring proficiency in Java, JavaScript, and Python, with experience in both front-end and back-end development. My technical skills are complemented by my ability to solve complex problems creatively, and I am an effective communicator and leader who excels in collaborative environments. Eager to learn and adopt new technologies, I am actively seeking opportunities to contribute my skills and grow as a software engineer.
 
-I am also passionate about ideating, conceptualizing, and producing consumer-centric. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
 ### Reach Me Out:
 - Email: mfitep6@gmail.com
