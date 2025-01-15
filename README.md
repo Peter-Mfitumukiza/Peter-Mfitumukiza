@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am a software engineer, passionate about transforming innovative ideas into impactful software solutions. With a strong foundation in computer science principles and a proven track record of excellence, I bring proficiency in Java, JavaScript, and Python, with experience in both front-end and back-end development. My technical skills are complemented by my ability to solve complex problems creatively, and I am an effective communicator and leader who excels in collaborative environments. Eager to learn and adopt new technologies, I am actively seeking opportunities to contribute my skills and grow as a software engineer.
+I am a software engineer, passionate about transforming innovative ideas into impactful software solutions. With a strong foundation in computer science principles and a proven track record of excellence, I bring proficiency in Java, JavaScript, PHP and Python, with experience in both front-end and back-end development. My technical skills are complemented by my ability to solve complex problems creatively, and I am an effective communicator and leader who excels in collaborative environments. Eager to learn and adopt new technologies, I am actively seeking opportunities to contribute my skills and grow as a software engineer.
 
 
 ### Reach Me Out:
@@ -22,6 +22,8 @@ My Github stats:
 </a>
 
 ### My Favorite Languages/frameworks
-- JavaScript / NodeJS(Express)
+- JavaScript
 - TypeScript
-- Java / Spring Boot
+- Java
+- PHP
+- Python
